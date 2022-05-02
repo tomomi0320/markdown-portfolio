@@ -1,1 +1,1 @@
-![Image of Oktcat](https://github.com/octocat)
+![Oktcat](https://media.goodpatch.com/cms/2013/12/octocat.png)
